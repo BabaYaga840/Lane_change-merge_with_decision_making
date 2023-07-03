@@ -1,6 +1,6 @@
 import matplotlib.pyplot as plt
 import numpy as np
-from one import *
+from base import *
 
 dt=0.01
 simt=30
